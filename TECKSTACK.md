@@ -1,6 +1,9 @@
 #   next.js
 #   sanity.io
     -create a .env.local file and add details
+    -sanity typegen
+    -command line interface for sanity: npm install --global sanity@latest
+    
 #   clerk
     - npm install @clerk/nextjs
     - if run into problem try npm install @clerk/nextjs --legacy-peer-deps
